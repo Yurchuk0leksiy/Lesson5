@@ -1,0 +1,15 @@
+E:\C#\Lesson5\DeBag\DeBag\bin\Debug\net6.0\DeBag.exe
+E:\C#\Lesson5\DeBag\DeBag\bin\Debug\net6.0\DeBag.deps.json
+E:\C#\Lesson5\DeBag\DeBag\bin\Debug\net6.0\DeBag.runtimeconfig.json
+E:\C#\Lesson5\DeBag\DeBag\bin\Debug\net6.0\DeBag.dll
+E:\C#\Lesson5\DeBag\DeBag\bin\Debug\net6.0\DeBag.pdb
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\DeBag.csproj.AssemblyReference.cache
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\DeBag.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\DeBag.AssemblyInfoInputs.cache
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\DeBag.AssemblyInfo.cs
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\DeBag.csproj.CoreCompileInputs.cache
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\DeBag.dll
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\refint\DeBag.dll
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\DeBag.pdb
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\DeBag.genruntimeconfig.cache
+E:\C#\Lesson5\DeBag\DeBag\obj\Debug\net6.0\ref\DeBag.dll
